@@ -107,7 +107,3 @@ This repository contains comprehensive test scenarios for Facebook's **Login** a
 | Date of Birth    | 24‑Jun‑2012, 23‑Jun‑1905        | 23‑Jun‑2012, 24‑Jun‑1975     |
 | Password Length  | 5, 51 chars                     | 6, 50 chars                  |
 
----
-
-*Feel free to extend these scenarios, link to detailed test-case templates, or integrate with your automation suite.*
-
